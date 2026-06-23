@@ -1,1 +1,2 @@
-# Click on "Sign In" to go to the website.
+# Click on "Sign In" to go to the website. 
+# Thanks.
